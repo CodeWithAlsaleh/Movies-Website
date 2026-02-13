@@ -1,4 +1,4 @@
-# 🍿 usePopcorn — Movie Library Manager
+# 🍿 watchMovies — Movie Library Manager
 
 Built with React — a dynamic movie search and management dashboard to discover films, rate them, and track your watch list. Lightweight, component-based, and highly interactive.
 
